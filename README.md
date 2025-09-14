@@ -30,10 +30,10 @@ Ayrıca Python ile makine öğrenmesi (Python, PyTorch, TensorFlow) üzerinde pr
 
 ## 📊 Deneyim & İstatistikler
 
-- 🔧 **4+ yıl** profesyonel tecrübe :contentReference[oaicite:0]{index=0}  
-- ✅ **50+** tamamlanmış proje :contentReference[oaicite:1]{index=1}  
-- 🌟 Müşteri memnuniyeti: **%100** :contentReference[oaicite:2]{index=2}  
-- 🕒 24/7 destek ve iletişimde olma :contentReference[oaicite:3]{index=3}  
+- 🔧 **4+ yıl** profesyonel tecrübe
+- ✅ **50+** tamamlanmış proje
+- 🌟 Müşteri memnuniyeti: **%100**
+- 🕒 24/7 destek ve iletişimde olma
 
 ---
 
