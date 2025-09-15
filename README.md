@@ -30,18 +30,16 @@ Ayrıca Python ile makine öğrenmesi (Python, PyTorch, TensorFlow) üzerinde pr
 
 ## 📊 Deneyim & İstatistikler
 
-- 🔧 **4+ yıl** profesyonel tecrübe
+- 🔧 **4+ yıl** tecrübe
 - ✅ **50+** tamamlanmış proje
-- 🌟 Müşteri memnuniyeti: **%100**
-- 🕒 24/7 destek ve iletişimde olma
 
 ---
 
 ## 🌍 Dil Yetkinlikleri
 
 - Türkçe (Ana dil)  
-- İngilizce (İleri seviye)  
-- Rusça (Orta seviye) :contentReference[oaicite:4]{index=4}  
+- İngilizce (Orta seviye)  
+- Rusça (İleri seviye)
 
 ---
 
@@ -62,7 +60,7 @@ Bazı çalışmalarım:
 - E-ticaret siteleri  
 - Kurumsal web çözümleri  
 - API & backend servisleri  
-- Özel yazılım projeleri :contentReference[oaicite:5]{index=5}  
+- Özel yazılım projeleri
 
 ---
 
@@ -70,17 +68,10 @@ Bazı çalışmalarım:
 
 | Platform | Bilgi |
 |--|--|
-| E-posta | bykemalh@gmail.com :contentReference[oaicite:6]{index=6} |
+| E-posta | bykemalh@gmail.com |
 | Web site | [bykemalh.me](https://bykemalh.me) |
-| LinkedIn | — (bakınız profilim) :contentReference[oaicite:7]{index=7} |
+| LinkedIn | — (bakınız profilim)|
 | Telegram | — (istediğin zaman ulaşabilirsin) |
-
----
-
-## ⚡ GitHub İstatistikler
-
-<!-- Buraya GitHub Readme Stats gibi servislerle otomatik güncellenebilecek kartlar eklenebilir -->
-<!-- Örnek: Top Languages, GitHub Stats, Streak -->
 
 ---
 
