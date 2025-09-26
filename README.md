@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>👋 Merhaba, ben Kemal Hafızoğlu</h1>
-  <strong>Senior Full Stack Developer</strong>
+  <strong> Mid-level Full-Stack Web Developer & Al Developer </strong>
 </div>
 
 ---
