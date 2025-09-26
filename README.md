@@ -163,6 +163,3 @@ const kemal = {
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 **© 2025 Kemal Hafızoğlu • Full-Stack Developer & AI Enthusiast**
-```
-
-Your README is now ready with all your actual social links! This modern, comprehensive profile will definitely make a great impression on visitors to your GitHub profile. 🚀
