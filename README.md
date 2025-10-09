@@ -17,7 +17,7 @@
 ```javascript
 const kemal = {
     location: "Turkey 🇹🇷",
-    role: "Mid-Level Full-Stack Developer & AI Developer",
+    role: "Junior Full-Stack Developer & AI Developer",
     website: "bykemalh.me",
     experience: "4+ years",
     completedProjects: "50+",
